@@ -448,7 +448,7 @@ http://www.tooplate.com/view/2098-health
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 650px;
+    height: 800px;
   }
 
   .slider .item-first {
@@ -456,10 +456,14 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .item-second {
-    background-image: url(../images/bike-spare-parts.webp);
+    background-image: url(../images/bike1.webp);
   }
 
   .slider .item-third {
+    background-image: url(../images/bike2.jpeg);
+  }
+
+  .slider .item-fourth {
     background-image: url(../images/injector.jpeg);
   }
 
@@ -479,7 +483,7 @@ http://www.tooplate.com/view/2098-health
   .profile figcaption {
     display: inline-block;
     vertical-align: top;
-    margin-top: 1em;
+    margin-top: -1em;
   }
   .profile img {
     border-radius: 100%;
