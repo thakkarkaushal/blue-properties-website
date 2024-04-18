@@ -460,7 +460,7 @@ header span i {
 }
 
 .slider .item-first {
-  background-image: url(../images/images1.jpeg);
+  background-image: url(../images/image1.jpeg);
 }
 
 .slider .item-fifth {
@@ -468,11 +468,11 @@ header span i {
 }
 
 .slider .item-second {
-  background-image: url(../images/images2.jpeg);
+  background-image: url(../images/image2.jpeg);
 }
 
 .slider .item-third {
-  background-image: url(../images/images3.jpeg);
+  background-image: url(../images/image3.jpeg);
 }
 
 .slider .item-fourth {
